@@ -1,0 +1,45 @@
+#backgroundDIV {
+		  background-color: steelblue;
+		  color: white;
+		  margin: 10px;
+		  padding: 15px;
+		  font-family: 'Roboto', sans-serif;
+		  border-radius: 10px;
+		}
+		p {
+		  font-size: 100%
+		}
+
+		h1 {font-size:300%}
+		h3 {font-size:150%}
+
+		img {
+		  height: 300px;
+		}
+
+.jumbotron {
+		color: black;
+	}
+.mybutton{
+		color: black;
+	}		
+
+#BOAmap {
+	   	width: 100%;
+	   	height: 500px;
+   		color: black;
+   		background-color: gray;
+   		border-radius: 10px;}		   
+
+
+/*#infoWindow {
+       background: #FFFFFF;
+       padding: 15px;
+       border-radius: 10px;
+       font-size: 30px;
+       position: relative;
+       top: -78px;
+       width: auto;
+       display: inline;
+       margin-left: 20px;
+     }*/
